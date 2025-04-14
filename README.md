@@ -17,7 +17,7 @@ A role-based employee portal built using Microsoft Power Apps and Excel (OneDriv
 ## 📸 Screenshots
 | Login Screen | Role View | HR Contact |
 |--------------|-----------|------------|
-| ![Login](screenshots/login.png) | ![Role](screenshots/roleview.png) | ![HR](screenshots/hr.png) |
+| ![Login](login.png) | ![Role](screenshots/roleview.png) | ![HR](screenshots/hr.png) |
 
 ## 📹 Demo Video
 Watch it here: [Click to view](https://your-link-here)
