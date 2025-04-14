@@ -15,12 +15,12 @@ A role-based employee portal built using Microsoft Power Apps and Excel (OneDriv
 - Power Automate (free-tier tested)
 
 ## 📸 Screenshots
-| Login Screen | Role View | HR Contact |
-|--------------|-----------|------------|
-| ![Login](login.png) | ![Role](screenshots/roleview.png) | ![HR](screenshots/hr.png) |
+| Home Screen | Login Screen | Role View | HR Contact |
+|--------------|--------------|-----------|------------|
+| ![Home](home.png) | ![Login](login.png) | ![Role](employee.png) | ![HR](hr.png) |
 
 ## 📹 Demo Video
-Watch it here: [Click to view](https://your-link-here)
+Watch it here: [Click to view]([https://your-link-here](https://www.linkedin.com/posts/hima-sameera-munjampally-16893b171_powerapps-excel-employeemanagement-activity-7317357683517362178-4fRJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACjlOiABZ27BIxBHXPJPVNtzrfYH53KKa2k))
 
 ## 📁 Files
 - `EmployeeManagementApp.xlsx` – Static Excel backend with multiple sheets for Employees, HR, Departments, and Salaries
